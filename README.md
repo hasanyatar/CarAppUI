@@ -1,4 +1,4 @@
-# Car App UI 
+# Car App UI With Flutter
 
 This application is a car store application that I developed individually. There are also Dark and Light themes. I mainly focused on the UI side. The project is not finished.
 
